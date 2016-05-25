@@ -1,0 +1,9 @@
+h2{
+width: 600px;
+margin: 0 auto;
+}
+h2 button {
+  display: block;
+  background-color: orange;
+  cursor: pointer;
+}
